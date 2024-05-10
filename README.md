@@ -3,29 +3,26 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAliZareian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAliZareian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ6aW9iczZtendib2t3MnZyeGhoYXlteHRrYXZzOXZydDA2aTRyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif"  />
 
 ###
+- 👨‍💻 All of my projects are available at [{PortFolio}]({PortFolio})
 
-- 🌱 I’m currently learning **TypeScript**
+- 📫 How to reach me **dev.ali.zareian@gmail.com**
 
 - 👯 I’m looking to collaborate on **everything that makes me improve 💪🏻**
 
 - 🤝 I’m looking for help with **Front-End Devs ╰(*°▽°*)╯**
 
-- 👨‍💻 All of my projects are available at [{PortFolio}]({PortFolio})
-
 - 💬 Ask me about **React and new UI Trends (～￣▽￣)～**
 
-- 📫 How to reach me **dev.ali.zareian@gmail.com**
-
 - ⚡ Fun fact **I'm afraid of vscode light mode X_X**
+
+- 🌱 I’m currently learning **TypeScript**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devAliZareian) 
 
