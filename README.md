@@ -14,10 +14,10 @@ class DevAliZareian {
   constructor() {
     this.name = "Fardin";
     this.age = 19;
-    this.role = "React Developer";
+    this.role = "Front-End Developer";
     
     this.TOOLS = {
-      "Frontend": ["React", "React Router", "TypeScript", "JavaScript (ES6+)"],
+      "Frontend": ["NextJS" ,"React", "React Router", "TypeScript", "JavaScript (ES6+)"],
       "StateManagement": ["React Query", "Context API", "Redux Toolkit"],
       "Performance": ["Memoization", "Lazy Loading", "Suspense", "Optimization Techniques"],
       "APIs": ["GraphQL", "REST APIs"],
