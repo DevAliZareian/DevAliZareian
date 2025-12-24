@@ -13,7 +13,7 @@ class DevAliZareian {
   
   constructor() {
     this.name = "Fardin";
-    this.age = 19;
+    this.age = 20;
     this.role = "Front-End Developer";
     
     this.TOOLS = {
